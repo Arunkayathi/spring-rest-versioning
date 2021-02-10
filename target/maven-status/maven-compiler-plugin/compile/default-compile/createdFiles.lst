@@ -1,0 +1,5 @@
+com/demo/springfoxexample/SpringfoxExampleApplication.class
+com/demo/springfoxexample/services/PersonService.class
+com/demo/springfoxexample/domain/Person.class
+com/demo/springfoxexample/controllers/PersonController.class
+com/demo/springfoxexample/config/SpringFoxConfig.class
